@@ -5,3 +5,5 @@ virtualenv_setting/
 website/website/*.pyc
 website/polls/*.pyc
 website/db.sqlite3
+website/polls/migrations/*.pyc
+website/polls/migrations/00*.py
