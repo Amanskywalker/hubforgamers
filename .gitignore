@@ -1,2 +1,7 @@
 # files of the virtualenv
 virtualenv_setting/
+
+#automatically generated files
+website/website/*.pyc
+website/polls/*.pyc
+website/db.sqlite3
